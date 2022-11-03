@@ -38,3 +38,6 @@ Keras Tuner로 초매개변수 미세조정:튜닝
 이미지(in 데이터 로드 및 사전처리)
 CSV:조교님수업 퀴즈면 load는 줄것같고 마지막에 걸린 시간 보면서 왜 이시간이 걸렷고 시간단축방법이 잇는지 물어볼듯
 Numpy:조교님수업
+고급-맞춤-텐서및 작업 
+           맞춤데이터:stachastic GD 엑시쿠션 레이어 /레서넷블록/ "gradient vanishing and exploding problem"
+     로짓이 뭔지도 알아 두래?요?
