@@ -54,3 +54,4 @@ rasa: 한국어 처리 불가능 영어기반 framework. 주어 서술어목적�
 고급-생성-DCgan:"인코딩의 의미", QA, VQA, FVAQ, reasoning,triple->rasa급 어려움
 
 11/10의 다음주 화요일에 팀짜고 주제정해서 짧게 발...표...?어라?
+ex)게임내
