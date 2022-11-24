@@ -55,3 +55,12 @@ rasa: 한국어 처리 불가능 영어기반 framework. 주어 서술어목적�
 
 11/10의 다음주 화요일에 팀짜고 주제정해서 짧게 발...표...?어라?
 ex)게임내
+쪽지시험 
+Q1. deep learning neural network의 동작원리
+Q2. activation 함수의 종류와 특징
+Q3. CNN이란?
+Q4. RNN이란?(그림첨부 가능)
+Q5. RNN의 단점과 해결방안들
+Q6. optimizer의 의미와 종류
+Q7. 과대적합과 과소적합의 의미, 해결방안
+Q8. 강화학습이란?
